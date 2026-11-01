@@ -1,5 +1,5 @@
 {
-  "version": "3.12",
+  "version": "3.13",
   "apk": "https://raw.githubusercontent.com/Heiwax/fokus-cockpit-updates/main/handy.apk",
-  "neu": "Tracking-App: DNS-Filter, Bild-KI, Öffnungs-Limit, Panik-Knopf, Suchsperre und alle Schutz-Schalter, Lockern nur mit Timer"
+  "neu": "Beta: DNS-Filter, Bild-KI und Suchsperre frei an und aus. App zeigt jetzt ihre echte Versionsnummer."
 }
