@@ -1,5 +1,5 @@
 {
-  "version": "1.0.17",
+  "version": "1.0.18",
   "apk": "https://raw.githubusercontent.com/Heiwax/fokus-cockpit-updates/beta/handy.apk",
-  "neu": "Testversion: Einstellungen aufgeräumt, Geräte auch per Code statt QR verbinden, Fokus-Sperre mit App-Symbolen."
+  "neu": "Testversion: Geräte & Konto – weitere Geräte einfach mit E-Mail und Passwort anmelden."
 }
