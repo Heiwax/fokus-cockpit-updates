@@ -1,5 +1,5 @@
 {
-  "version": "3.14",
-  "apk": "https://raw.githubusercontent.com/Heiwax/fokus-cockpit-updates/main/handy.apk",
-  "neu": "Locker auf jedem Gerät öffnen und ändern, auch ohne Mac; Abgleich, sobald er wieder erreichbar ist. Neue Schutz-Funktionen sind zu Beginn aus."
+  "version": "1.0.14",
+  "apk": "https://raw.githubusercontent.com/Heiwax/fokus-cockpit-updates/beta/handy.apk",
+  "neu": "Testversion: nur Handy ohne Mac-Schalter, Locker-Einstellungen erst nach PIN, Nachfrage mit App-Symbolen, neues B-Icon."
 }
