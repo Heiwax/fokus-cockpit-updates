@@ -1,5 +1,5 @@
 {
-  "version": "1.0.20",
+  "version": "1.0.21",
   "apk": "https://raw.githubusercontent.com/Heiwax/fokus-cockpit-updates/beta/handy.apk",
-  "neu": "Locker, Werte und Einstellungen neu im Apple-Stil: klare Listen ohne Kästen in Kästen, Schutz, Nachfrage und Orts-Sperre öffnen als eigene Seite."
+  "neu": "Einstellungen und Locker-Unterseiten im Android-Stil wie die Pixel-Einstellungen: eine Kachel pro Einstellung, runde farbige Symbole, kürzere Texte."
 }
