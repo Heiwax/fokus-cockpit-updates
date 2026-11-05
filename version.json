@@ -1,5 +1,5 @@
 {
-  "version": "1.0.39",
+  "version": "1.0.40",
   "apk": "https://raw.githubusercontent.com/Heiwax/fokus-cockpit-updates/beta/handy.apk",
-  "neu": "Design-Korrekturen und Release-Feinschliff, Lockern wird teurer fest."
+  "neu": "Bild-KI schont den Akku: schnelle Prüfung nur nach Scrollen oder Tippen, KI-Chip wenn schneller, Sparmodus bei wenig Akku."
 }
