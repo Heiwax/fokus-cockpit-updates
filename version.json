@@ -1,5 +1,5 @@
 {
-  "version": "1.0.42",
+  "version": "1.0.43",
   "apk": "https://raw.githubusercontent.com/Heiwax/fokus-cockpit-updates/beta/handy.apk",
-  "neu": "Ausnahme-Apps werden trotzdem von Bild-KI und Filter geprüft, Erwachsenen-Namen sind nie Ausnahme. Dazu Design-Feinschliff."
+  "neu": "Bild-KI mit Modi, Ausnahme-Apps mit Prüfung, Design-Feinschliff."
 }
