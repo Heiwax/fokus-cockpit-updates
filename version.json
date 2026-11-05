@@ -1,5 +1,5 @@
 {
-  "version": "1.0.25",
+  "version": "1.0.26",
   "apk": "https://raw.githubusercontent.com/Heiwax/fokus-cockpit-updates/beta/handy.apk",
-  "neu": "Fokus-Apps immer als Kacheln, doppelte Einstellungen zur Sperre entfernt. Dazu: Locker ohne PIN und mit Gruppen, Grundschutz immer an, Leak-Sperre."
+  "neu": "Schutz-Reiter neu: Einstellbar und Was blockiert wird. Bild-KI nur noch: Sofort weg oder Beim 2. Treffer."
 }
