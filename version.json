@@ -1,5 +1,5 @@
 {
-  "version": "1.0.44",
+  "version": "1.0.45",
   "apk": "https://raw.githubusercontent.com/Heiwax/fokus-cockpit-updates/beta/handy.apk",
-  "neu": "Sperre schwerer zu umgehen: Browser, Proxy, Übersetzer, Archiv und Einstellungsseiten. Dazu Bild-KI-Modi."
+  "neu": "Feste Sperrzeiten, Nacht-Restzeit, Bild-KI-Chip-Schwelle und Design-Feinschliff."
 }
