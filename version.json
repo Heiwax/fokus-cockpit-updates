@@ -1,5 +1,5 @@
 {
-  "version": "1.0.24",
+  "version": "1.0.25",
   "apk": "https://raw.githubusercontent.com/Heiwax/fokus-cockpit-updates/beta/handy.apk",
-  "neu": "Locker ohne PIN, Gruppen im Locker, Grundschutz immer an, Fokus-Kacheln, aufgeräumte Einstellungen, Werte und Habits neu geordnet, Leak-Sperre."
+  "neu": "Fokus-Apps immer als Kacheln, doppelte Einstellungen zur Sperre entfernt. Dazu: Locker ohne PIN und mit Gruppen, Grundschutz immer an, Leak-Sperre."
 }
