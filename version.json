@@ -1,5 +1,5 @@
 {
-  "version": "1.0.41",
+  "version": "1.0.42",
   "apk": "https://raw.githubusercontent.com/Heiwax/fokus-cockpit-updates/beta/handy.apk",
-  "neu": "Anzeige, ob die Bild-KI auf dem KI-Chip oder der CPU rechnet. Dazu der Akku-Spar-Modus aus 1.0.40."
+  "neu": "Ausnahme-Apps werden trotzdem von Bild-KI und Filter geprüft, Erwachsenen-Namen sind nie Ausnahme. Dazu Design-Feinschliff."
 }
