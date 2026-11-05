@@ -1,5 +1,5 @@
 {
-  "version": "1.0.40",
+  "version": "1.0.41",
   "apk": "https://raw.githubusercontent.com/Heiwax/fokus-cockpit-updates/beta/handy.apk",
-  "neu": "Bild-KI schont den Akku: schnelle Prüfung nur nach Scrollen oder Tippen, KI-Chip wenn schneller, Sparmodus bei wenig Akku."
+  "neu": "Anzeige, ob die Bild-KI auf dem KI-Chip oder der CPU rechnet. Dazu der Akku-Spar-Modus aus 1.0.40."
 }
