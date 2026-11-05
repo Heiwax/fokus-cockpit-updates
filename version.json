@@ -1,5 +1,5 @@
 {
-  "version": "1.0.43",
+  "version": "1.0.44",
   "apk": "https://raw.githubusercontent.com/Heiwax/fokus-cockpit-updates/beta/handy.apk",
-  "neu": "Bild-KI mit Modi, Ausnahme-Apps mit Prüfung, Design-Feinschliff."
+  "neu": "Sperre schwerer zu umgehen: Browser, Proxy, Übersetzer, Archiv und Einstellungsseiten. Dazu Bild-KI-Modi."
 }
