@@ -1,5 +1,5 @@
 {
-  "version": "1.0.45",
+  "version": "1.0.46",
   "apk": "https://raw.githubusercontent.com/Heiwax/fokus-cockpit-updates/beta/handy.apk",
-  "neu": "Feste Sperrzeiten, Nacht-Restzeit, Bild-KI-Chip-Schwelle und Design-Feinschliff."
+  "neu": "Bild-KI prüft im Browser jedes Bild einzeln, Design-Korrekturen in allen Reitern."
 }
