@@ -1,5 +1,5 @@
 {
-  "version": "1.0.46",
+  "version": "1.0.47",
   "apk": "https://raw.githubusercontent.com/Heiwax/fokus-cockpit-updates/beta/handy.apk",
-  "neu": "Bild-KI prüft im Browser jedes Bild einzeln, Design-Korrekturen in allen Reitern."
+  "neu": "Einrichtung kürzer und klarer (Rechte am Ende, nur installierte Apps), Hilfe holen, klarere Werte."
 }
