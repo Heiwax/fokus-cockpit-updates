@@ -1,5 +1,5 @@
 {
-  "version": "1.0.49",
+  "version": "1.0.50",
   "apk": "https://raw.githubusercontent.com/Heiwax/fokus-cockpit-updates/beta/handy.apk",
-  "neu": "Locker mit „Sperren | Schutz“, Tagesverlauf nach Tageszeiten, Woche und Rückblick mit Top 3 Produktiv, Neutral und Ablenkung."
+  "neu": "Bezahlung eingebaut (im Test alles frei), Orte unter Sperren, Websites deiner Apps werden mitgesperrt, Sicherungsdatei und Passwort vergessen per Notfall-Code."
 }
