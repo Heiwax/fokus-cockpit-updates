@@ -1,5 +1,5 @@
 {
-  "version": "1.0.50",
+  "version": "1.0.51",
   "apk": "https://raw.githubusercontent.com/Heiwax/fokus-cockpit-updates/beta/handy.apk",
-  "neu": "Bezahlung eingebaut (im Test alles frei), Orte unter Sperren, Websites deiner Apps werden mitgesperrt, Sicherungsdatei und Passwort vergessen per Notfall-Code."
+  "neu": "Bild-KI schaut genauer hin: Jedes Bild wird jetzt vom großen Modell geprüft, und in Kachel-Ansichten wie Instagram Entdecken bis zu 6 Bilder statt 2."
 }
