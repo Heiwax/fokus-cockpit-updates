@@ -1,5 +1,5 @@
 {
-  "version": "1.0.51",
+  "version": "1.0.52",
   "apk": "https://raw.githubusercontent.com/Heiwax/fokus-cockpit-updates/beta/handy.apk",
-  "neu": "Bild-KI schaut genauer hin: Jedes Bild wird jetzt vom großen Modell geprüft, und in Kachel-Ansichten wie Instagram Entdecken bis zu 6 Bilder statt 2."
+  "neu": "Feinschliff vor dem Release: bessere Abdeckung von Bildern, überarbeitete Seiten für Vertrauensperson und BlockEm Pro, Reste aufgeräumt."
 }
