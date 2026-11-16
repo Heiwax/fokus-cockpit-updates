@@ -1,5 +1,5 @@
 {
-  "version": "1.0.58",
+  "version": "1.0.59",
   "apk": "https://raw.githubusercontent.com/Heiwax/fokus-cockpit-updates/beta/handy.apk",
-  "neu": "Bild-KI bei Videos: Die Abdeckung geht wieder weg, sobald die Szene ein paar Sekunden sauber ist. Shorts werden erst beim zweiten Treffer gesperrt."
+  "neu": "YouTube: Bleibt ein Video unter der Abdeckung für BlockEm unsichtbar, gibt es die Stelle nach kurzer Zeit frei und prüft sofort neu."
 }
