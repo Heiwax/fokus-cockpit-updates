@@ -1,5 +1,5 @@
 {
-  "version": "1.0.70",
+  "version": "1.0.71",
   "apk": "https://raw.githubusercontent.com/Heiwax/fokus-cockpit-updates/beta/handy.apk",
-  "neu": "Fokus repariert: Kategorien schalten zuverlässig, installierte und nicht installierte Apps getrennt, und du wählst, auf welchen Geräten die Sperre gilt."
+  "neu": "Absturz-Fix: Die Play-Fassung stürzte beim Öffnen ab (Bezahlung). Dazu die Fokus-Reparatur aus 1.0.70."
 }
