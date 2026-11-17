@@ -1,5 +1,5 @@
 {
-  "version": "1.0.71",
+  "version": "1.0.72",
   "apk": "https://raw.githubusercontent.com/Heiwax/fokus-cockpit-updates/beta/handy.apk",
-  "neu": "Absturz-Fix: Die Play-Fassung stürzte beim Öffnen ab (Bezahlung). Dazu die Fokus-Reparatur aus 1.0.70."
+  "neu": "Neuer Einrichtungs-Schritt „Wo soll BlockEm aufpassen?“ mit Anleitung für mehrere Geräte, Geräte & Konto neu gestaltet."
 }
