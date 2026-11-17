@@ -1,5 +1,5 @@
 {
-  "version": "1.0.59",
+  "version": "1.0.60",
   "apk": "https://raw.githubusercontent.com/Heiwax/fokus-cockpit-updates/beta/handy.apk",
-  "neu": "YouTube: Bleibt ein Video unter der Abdeckung für BlockEm unsichtbar, gibt es die Stelle nach kurzer Zeit frei und prüft sofort neu."
+  "neu": "Entwickler-Modus am Handy (nur mit Entwickler-Code) und der YouTube-Fix aus 1.0.59."
 }
