@@ -1,5 +1,5 @@
 {
-  "version": "1.0.69",
+  "version": "1.0.70",
   "apk": "https://raw.githubusercontent.com/Heiwax/fokus-cockpit-updates/beta/handy.apk",
-  "neu": "Fokus: Kategorien mit einem Tipp ganz an oder aus (Chip „Alles“), neues App-Symbol."
+  "neu": "Fokus repariert: Kategorien schalten zuverlässig, installierte und nicht installierte Apps getrennt, und du wählst, auf welchen Geräten die Sperre gilt."
 }
