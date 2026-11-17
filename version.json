@@ -1,5 +1,5 @@
 {
-  "version": "1.0.61",
+  "version": "1.0.62",
   "apk": "https://raw.githubusercontent.com/Heiwax/fokus-cockpit-updates/beta/handy.apk",
-  "neu": "Abdeckung zieht auf Instagram besser mit, die 10-Sekunden-Pause kommt nur noch beim Öffnen einer App, und die Frage nach der Offline-Zeit ist weg."
+  "neu": "Klarere Meldungen der Bild-KI. Dazu aus 1.0.61: Abdeckung zieht auf Instagram besser mit, Pause nur beim Öffnen einer App, Offline-Frage weg."
 }
