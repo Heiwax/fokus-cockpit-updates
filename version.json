@@ -1,5 +1,5 @@
 {
-  "version": "1.0.60",
+  "version": "1.0.61",
   "apk": "https://raw.githubusercontent.com/Heiwax/fokus-cockpit-updates/beta/handy.apk",
-  "neu": "Entwickler-Modus am Handy (nur mit Entwickler-Code) und der YouTube-Fix aus 1.0.59."
+  "neu": "Abdeckung zieht auf Instagram besser mit, die 10-Sekunden-Pause kommt nur noch beim Öffnen einer App, und die Frage nach der Offline-Zeit ist weg."
 }
