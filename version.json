@@ -1,5 +1,5 @@
 {
-  "version": "1.0.64",
+  "version": "1.0.65",
   "apk": "https://raw.githubusercontent.com/Heiwax/fokus-cockpit-updates/beta/handy.apk",
-  "neu": "Einrichtung: Startfenster wird wieder richtig angezeigt. Dazu aus 1.0.63: Wort-Filter deckt nur den Beitrag ab."
+  "neu": "Neue Einrichtung: ein Gedanke pro Bildschirm, Spiele und Arbeit als Locker-Gruppen, Ruhezeiten einzeln, die Rechte-Seite prüft sich selbst. Bild-KI auf YouTube/Netflix jederzeit an und aus."
 }
