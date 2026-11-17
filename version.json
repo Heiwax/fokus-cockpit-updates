@@ -1,5 +1,5 @@
 {
-  "version": "1.0.63",
+  "version": "1.0.64",
   "apk": "https://raw.githubusercontent.com/Heiwax/fokus-cockpit-updates/beta/handy.apk",
-  "neu": "Wort-Filter deckt nur noch den Beitrag ab, statt dich aus der App zu werfen. Hilfe-Seiten wie NoFap oder Sucht-Dokus lösen nichts mehr aus."
+  "neu": "Einrichtung: Startfenster wird wieder richtig angezeigt. Dazu aus 1.0.63: Wort-Filter deckt nur den Beitrag ab."
 }
