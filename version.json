@@ -1,5 +1,5 @@
 {
-  "version": "1.0.74",
+  "version": "1.0.75",
   "apk": "https://raw.githubusercontent.com/Heiwax/fokus-cockpit-updates/beta/handy.apk",
-  "neu": "Instagram: Abdeckung blinkt nicht mehr, Story-Leiste oben wird nicht mehr abgedeckt"
+  "neu": "Bild-KI greift immer beim 1. Treffer, Abdeckung geht weg, sobald nichts mehr erkannt wird"
 }
