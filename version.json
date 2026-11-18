@@ -1,5 +1,5 @@
 {
-  "version": "1.0.72",
+  "version": "1.0.73",
   "apk": "https://raw.githubusercontent.com/Heiwax/fokus-cockpit-updates/beta/handy.apk",
-  "neu": "Neuer Einrichtungs-Schritt „Wo soll BlockEm aufpassen?“ mit Anleitung für mehrere Geräte, Geräte & Konto neu gestaltet."
+  "neu": "Bild-KI bei Videos: Nach einer Freigabe gilt wieder die normale Regel, statt sofort neu abzudecken. Die Bild-KI-Regel ist jetzt sichtbar."
 }
