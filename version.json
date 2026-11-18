@@ -1,5 +1,5 @@
 {
-  "version": "1.0.75",
+  "version": "1.0.76",
   "apk": "https://raw.githubusercontent.com/Heiwax/fokus-cockpit-updates/beta/handy.apk",
-  "neu": "Bild-KI greift immer beim 1. Treffer, Abdeckung geht weg, sobald nichts mehr erkannt wird"
+  "neu": "Abdeckung bleibt nicht mehr hängen: unter der Abdeckung wird jetzt wirklich geprüft"
 }
