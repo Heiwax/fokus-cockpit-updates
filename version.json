@@ -1,5 +1,5 @@
 {
-  "version": "1.0.73",
+  "version": "1.0.74",
   "apk": "https://raw.githubusercontent.com/Heiwax/fokus-cockpit-updates/beta/handy.apk",
-  "neu": "Bild-KI bei Videos: Nach einer Freigabe gilt wieder die normale Regel, statt sofort neu abzudecken. Die Bild-KI-Regel ist jetzt sichtbar."
+  "neu": "Instagram: Abdeckung blinkt nicht mehr, Story-Leiste oben wird nicht mehr abgedeckt"
 }
