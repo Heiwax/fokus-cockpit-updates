@@ -1,5 +1,5 @@
 {
-  "version": "3.14",
+  "version": "4.0",
   "apk": "https://raw.githubusercontent.com/Heiwax/fokus-cockpit-updates/main/handy.apk",
-  "neu": "Locker auf jedem Gerät öffnen und ändern, auch ohne Mac; Abgleich, sobald er wieder erreichbar ist. Neue Schutz-Funktionen sind zu Beginn aus."
+  "neu": "Neue Testversion (intern 1.0.84) mit Reset-Code für Tester."
 }
