@@ -1,5 +1,5 @@
 {
-  "version": "1.0.86",
+  "version": "1.0.87",
   "apk": "https://raw.githubusercontent.com/Heiwax/fokus-cockpit-updates/beta/handy.apk",
-  "neu": "Design wie die Kern-Galerie: passt sich jedem Handy an, Kopf mit Figur und Zahnrad wieder sichtbar, Navigation über der Gestenleiste, Systemschriftgröße, klarere Sperre, Werte und Rückblick, eigene App-Symbole"
+  "neu": "Zurück-Geste geht eine Seite zurück statt die App zu schließen, Vertrauensperson wieder lesbar, Sperrzeiten und Tageslimits für Gruppen oder einzelne Apps mit klarer Übersicht, warmer Schein im dunklen Modus, ruhigere Farben im hellen Modus"
 }
