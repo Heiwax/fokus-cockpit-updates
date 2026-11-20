@@ -1,5 +1,5 @@
 {
-  "version": "1.0.88",
+  "version": "1.0.89",
   "apk": "https://raw.githubusercontent.com/Heiwax/fokus-cockpit-updates/beta/handy.apk",
-  "neu": "Sperre mit Reitern wie bei den Werten: Sperrzeiten als Kreise, Gruppen und Apps. Dazu aus 1.0.87: Zurück-Geste geht eine Seite zurück, Vertrauensperson lesbar, warmer Schein im dunklen Modus, ruhigere Farben im hellen Modus"
+  "neu": "Sperrzeiten als Uhrzeit-Kreise: antippen zeigt, was gesperrt ist. Apps-Reiter nur einzelne Apps. Mac erscheint bei Geräte. Update-Knopf in den Einstellungen."
 }
