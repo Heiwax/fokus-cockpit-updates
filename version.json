@@ -1,5 +1,5 @@
 {
-  "version": "1.0.89",
+  "version": "1.0.90",
   "apk": "https://raw.githubusercontent.com/Heiwax/fokus-cockpit-updates/beta/handy.apk",
-  "neu": "Sperrzeiten als Uhrzeit-Kreise: antippen zeigt, was gesperrt ist. Apps-Reiter nur einzelne Apps. Mac erscheint bei Geräte. Update-Knopf in den Einstellungen."
+  "neu": "Kern-Runde 3: Fokus, Sperre, Schutz, Geräte, Weg und Farben neu; Gerät aus Regel entfernen erst nach 24 Std."
 }
