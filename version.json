@@ -1,5 +1,5 @@
 {
-  "version": "1.0.92",
+  "version": "1.0.93",
   "apk": "https://raw.githubusercontent.com/Heiwax/fokus-cockpit-updates/beta/handy.apk",
-  "neu": "Mac-Fixes, alte Fenster weg, Zeitstrahl bei Sperrzeiten, lebendiges Männchen, Uhr-Trick gesperrt, Bild-KI deckt alle Kacheln ab, Handy findet Mac in jedem Netz"
+  "neu": "Bild-KI startet nach langem Aus schneller, Einstellungen repariert (keine schwarzen Seiten), Mac sperrt wieder zuverlässig, Limits direkt nach der Einrichtung sichtbar"
 }
