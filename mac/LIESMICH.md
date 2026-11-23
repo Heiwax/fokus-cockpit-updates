@@ -1,4 +1,4 @@
-# Für den Mac (1.0.93/162)
+# Für den Mac (1.0.94/163)
 
-- handy-mit-modell.apk.teil0* zusammensetzen: md5 bb35f90970c713b779c0283d77b6a8e0 (direkte Fassung mit eingebautem Bild-KI-Modell, 140 MB)
-- mac-1.0.93.tgz: md5 c7d7503f25d82e4c96224cb60bbd372d (Mac-Teil ohne handy-app)
+- handy-mit-modell.apk.teil0* zusammensetzen: md5 30db2bdac457ef092127b34cfd21c5ef
+- mac-1.0.94.tgz: md5 478b2f033719aa6e4158d4b4121ff937

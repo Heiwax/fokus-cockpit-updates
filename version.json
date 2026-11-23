@@ -1,5 +1,5 @@
 {
-  "version": "1.0.93",
+  "version": "1.0.94",
   "apk": "https://raw.githubusercontent.com/Heiwax/fokus-cockpit-updates/beta/handy.apk",
-  "neu": "Bild-KI startet nach langem Aus schneller, Einstellungen repariert (keine schwarzen Seiten), Mac sperrt wieder zuverlässig, Limits direkt nach der Einrichtung sichtbar"
+  "neu": "Erster Start ohne Flackern: gleich die Einrichtung statt alter Bildschirme"
 }
