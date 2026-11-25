@@ -1,5 +1,5 @@
 {
-  "version": "1.0.97",
+  "version": "1.0.98",
   "apk": "https://raw.githubusercontent.com/Heiwax/fokus-cockpit-updates/beta/handy.apk",
-  "neu": "Fokus: mehrere Bereiche gleichzeitig wählbar, weniger Fehlsperren (Hersteller-Apps und -Stores, Bild-KI deckt nur ab statt zu sperren), Galerie/Messenger-Prüfung als Schalter"
+  "neu": "Play-Fassung zeigt Updates aus dem Play Store an"
 }
