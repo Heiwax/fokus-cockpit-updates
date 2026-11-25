@@ -1,4 +1,4 @@
-# Für den Mac (1.0.96/165)
+# Für den Mac (1.0.97/166)
 
-- handy-mit-modell.apk.teil0* zusammensetzen: md5 2bb87db37be3bda26e9189fa511b93ab
-- mac-1.0.96.tgz: md5 f88930f912297c40a74875610eee6969
+- handy-mit-modell.apk.teil0* zusammensetzen: md5 0f13c220d487471b20e91f6ce50dd663
+- mac-1.0.97.tgz: md5 3bbbea8455d20d84b9e360355610c94d

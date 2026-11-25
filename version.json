@@ -1,5 +1,5 @@
 {
-  "version": "1.0.96",
+  "version": "1.0.97",
   "apk": "https://raw.githubusercontent.com/Heiwax/fokus-cockpit-updates/beta/handy.apk",
-  "neu": "Tageslimits und Sperrzeiten in Schritten mit Gruppen, Lockern je Änderung 12 Std., mehr Schutz (Sicherheitstest), Einrichtung in App-Schrift"
+  "neu": "Fokus: mehrere Bereiche gleichzeitig wählbar, weniger Fehlsperren (Hersteller-Apps und -Stores, Bild-KI deckt nur ab statt zu sperren), Galerie/Messenger-Prüfung als Schalter"
 }
